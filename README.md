@@ -5,6 +5,8 @@ This project is a test task for `MoData` Company. To make it working you need to
 
 
 
+<br />
+
 ## How to clone the repository
 
 Open terminal and do
@@ -13,6 +15,7 @@ Open terminal and do
 #### `git clone git@github.com:aslobodyan/repo.git`
 
 
+<br />
 
 ## How to run
 
@@ -22,6 +25,9 @@ To run the project just open `../MoData/` folder in any console and type there n
 #### `npm start`
 
 Runs the app in the development mode.<br />
+
+## How to see this test app
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
