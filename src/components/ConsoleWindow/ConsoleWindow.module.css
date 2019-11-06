@@ -1,0 +1,38 @@
+.container {
+    width: 800px;
+    height: auto;
+    padding: 0;
+    margin: 100px auto 0;
+    box-shadow: 6px 6px 10px cadetblue;
+    border-radius: 5px;
+}
+.header {
+    height: auto;
+    border-radius: 5px 5px 0 0;
+    background-color: lightblue;
+    cursor: move;
+}
+.header button {
+    padding: 0;
+    margin: 8px 0 8px 10px;
+    height: 14px;
+    width: 14px;
+    border-radius: 7px;
+    border: 0 none;
+    font-weight: bold;
+}
+.body {
+    padding: 10px;
+}
+.green {
+    background-color: #29c941;
+    border: 1px solid #5abb66;
+}
+.red {
+    background-color: #ff5e57;
+    border: 1px solid #e34039;
+}
+.yellow {
+    background-color: #ffbe2e;
+    border: 1px solid #f1ab15;
+}
